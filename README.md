@@ -1,1 +1,15 @@
-# heart_rate_monitor_spo2
+| อุปกรณ์      |   GPIO |
+| ------------ | -----: |
+| ST7789 SCLK  | GPIO12 |
+| ST7789 MOSI  | GPIO11 |
+| ST7789 CS    |  GPIO8 |
+| ST7789 DC    | GPIO10 |
+| ST7789 RST   |  GPIO9 |
+| ST7789 BL    |  GPIO7 |
+| XPT2046 CLK  | GPIO12 |
+| XPT2046 DIN  | GPIO11 |
+| XPT2046 DO   | GPIO13 |
+| XPT2046 CS   | GPIO14 |
+| XPT2046 IRQ  |  GPIO6 |
+| MAX30102 SDA |  GPIO4 |
+| MAX30102 SCL |  GPIO5 |
